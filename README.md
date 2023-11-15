@@ -1,1 +1,1 @@
-# JavaScript
+# JavaScript e EcmaScript
